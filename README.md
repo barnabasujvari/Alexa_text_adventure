@@ -1,5 +1,8 @@
 # Alexa_text_adventure
-My team's project for the hello world hackatlon of 2019 in edinburgh.
+My team's project for the hello world hackatlon of 2019 in edinburgh. We created a choice based text adventure game to experience a short story with the ultimate goal of escaping the castle alive.
+
+Disclaimer: From the 3 HTML files found in the [main folder](https://github.com/Newcastle98/Alexa_text_adventure/blob/master/lambda/custom) we created [Survive the tower](https://github.com/Newcastle98/Alexa_text_adventure/blob/master/lambda/custom/Survive%20the%20tower.html)
+and the other 2 were the ones provided by the tutorial to give us some example code to learn from
 
 ## __HTML:__
 To Try out the game either copy/download and open it in a browser:
